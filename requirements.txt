@@ -18,4 +18,4 @@ scipy==1.6.3
 seaborn==0.11.1
 SQLAlchemy==1.4.15
 SQLAlchemy-Utils==0.37.3
-tensorflow==2.3.0
+tensorflow==2.5.0
